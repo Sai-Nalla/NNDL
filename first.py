@@ -1,5 +1,5 @@
 #Author : Sai Nalla
-#start
+
 def string_operation():
     try:
         inp_string = str(input("Enter your string here:"))
@@ -15,7 +15,7 @@ def string_operation():
             print("please enter a valid string")
     except Exception as error:
         print("Error occured {}".format(error))
-#end 
+
 if __name__ == "__main__":
     string_operation()
 
