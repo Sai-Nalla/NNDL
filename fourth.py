@@ -1,5 +1,4 @@
 #Author : Sai Nalla
-#start
 def grading_classScore():
     try:
         try:
@@ -26,6 +25,5 @@ def grading_classScore():
             print("please enter a valid number")
     except Exception as error:
         print("Error occured {}".format(error)) 
-#end
 if __name__ == "__main__":
     grading_classScore()
