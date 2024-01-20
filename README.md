@@ -6,3 +6,7 @@ As a part of Assignment 1 ICP1_Spring24
 3) A python program to replace a word python with pythons from the given user input sentence.
 4) A python program to print the letter grade based on an input class score. By using the
   grading scheme we  used in the class.
+
+Assignment 2
+
+Recorded Video Link : : https://drive.google.com/file/d/15HdaCDzMzFjD-ft5Xm41JN4DfWHQ1akJ/view?usp=drivesdk
